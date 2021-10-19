@@ -1,0 +1,4 @@
+﻿  Statistician.cpp
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) Statistician Class\Statistician\Statistician.cpp(179,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) Statistician Class\Statistician\Statistician.cpp(179,20): error C2440: 'initializing': cannot convert from 'const char [6]' to 'int'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) Statistician Class\Statistician\Statistician.cpp(179,11): message : There is no context in which this conversion is possible

@@ -1,0 +1,10 @@
+﻿  Source1.cpp
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(9,17): error C2653: 'main_savitch_2a': is not a class or namespace name
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(9,42): error C2871: 'throttle': a namespace with this name does not exist
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(14,2): error C2065: 'throttle': undeclared identifier
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(14,11): error C2146: syntax error: missing ';' before identifier 'sample'
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(14,11): error C3861: 'sample': identifier not found
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(21,2): error C2065: 'sample': undeclared identifier
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(23,9): error C2065: 'sample': undeclared identifier
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(25,33): error C2065: 'sample': undeclared identifier
+C:\Users\drdoo\Desktop\Current Classes\C++ Data Structures and Algorithms\Week 2, (9_9) CH 2, 3 OOP and Container Classes\Ch 2 examples\My_Throttle\Source1.cpp(26,3): error C2065: 'sample': undeclared identifier
